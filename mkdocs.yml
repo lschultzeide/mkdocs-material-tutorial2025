@@ -32,12 +32,11 @@ nav:
     - Retrieve and Manage Templates: document-templates-manage.md
   - Reference:
     - Data Structures: data-structures.md
-    - API Reference: https://documents-as-a-service-cheshire-datasystems-insu-15cd91f7a27ec9.gitlab.io/
+    - API Reference: https://developer.telesign.com/enterprise/docs/get-started-with-docs/
     - Error Codes: error-codes.md
     - Change History: change-history.md
 
-copyright: Copyright &copy; 2025 Cheshire Datasystems Limited
-
+copyright: Copyright &copy; 2026 
 extra:
   analytics:
     provider: google
